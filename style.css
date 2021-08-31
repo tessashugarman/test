@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    background-color: honeydew;
+}
+
+h1{
+    color: darkslategrey;
+    font-size: 36px;
+    text-align: center;
+    margin-top: 15px;
+}
+p{
+    width: 250px;
+    text-align: center;
+    margin-left: 620px;
+    margin-top: 20px;
+}
+div{
+    background-color: bisque;
+    border: solid 3px darkslategrey;
+    margin: 8px 8px;
+    color: black;
+}
+#box1{
+    width: 100px;
+    height: 200px;
+}
+#box2{
+    width: 250px;
+    height: 120px;
+}
